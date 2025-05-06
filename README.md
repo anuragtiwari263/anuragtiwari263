@@ -43,8 +43,9 @@ Validated e-sign API workflows with secure authentication and document complianc
 📍 New Delhi, India  
 📧 anuragtiwari263@gmail.com  
 📞 +91-8923776040  
-🔗 [LinkedIn](https://www.linkedin.com/in/anuragtiwari263)  
+🔗 🔗 [LinkedIn](https://www.linkedin.com/in/anuragtiwari263)  
 🔗 [GitHub](https://github.com/anuragtiwari263)
+
 
 
 ---
